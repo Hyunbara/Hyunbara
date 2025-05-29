@@ -2,7 +2,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hyunbara </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 🧐 호기심과 열정을 가진 개발자입니다. 다양한 관점에서 생각하고 문제를 해결하는 것을 좋아합니다. <br></li>✨ 웹과 앱을 넘나드는 개발 경험을 통해 폭넓은 시각을 갖추고자 노력하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 🧐 웹과 앱을 넘나드는 개발 경험을 통해 폭넓은 시각을 갖추고, 다양한 관점에서 문제를 해결하는 것을 좋아합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
