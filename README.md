@@ -1,7 +1,9 @@
-<div align="left">
+<div align="center">
+  <!-- GitHub Contributions -->
+  <img src="https://ghchart.rshah.org/hyunbara" alt="GitHub Contribution Graph" />
 
   <!-- Contact Section -->
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 4px; margin-bottom: 20px;">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9; padding-bottom: 4px; margin: 40px 0 20px;">
     🧑‍💻 Contact Me
   </h2>
   <p>
@@ -18,11 +20,10 @@
     🏅 Stats
   </h2>
   <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyunbara&theme=github_dark" alt="GitHub Profile Summary"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyunbara&theme=github_dark"/>
   </p>
   <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyunbara&theme=github_dark" alt="Repos per Language"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyunbara&theme=github_dark" alt="GitHub Stats"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hyunbara&theme=github_dark"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyunbara&theme=github_dark"/>
   </p>
-
 </div>
